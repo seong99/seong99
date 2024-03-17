@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚡ coding chobo
+### ⚡ 
 <!--
 **seong99/seong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
